@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "typescript-express-starter": "^10.2.1"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
